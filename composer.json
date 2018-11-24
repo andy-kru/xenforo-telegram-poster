@@ -1,0 +1,8 @@
+{
+    "name": "andy-kru/xenforo-telegram-poster",
+    "type": "project",
+    "require": {
+        "php": ">=5.5",
+        "longman/telegram-bot": "*"
+    }
+}
